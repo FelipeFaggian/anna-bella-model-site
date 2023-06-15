@@ -1,0 +1,105 @@
+
+.fundos {
+  background: url('imagens/fundo.png');
+  background-repeat: repeat;
+}
+
+#container {
+	 display: inline-block;
+	 position: absolute;
+	 right: 400px;
+	 top: 0px;
+	 bottom: 20px;
+	}
+
+#container figcaption {
+	 position: absolute;
+	 top: 390px;
+	 right: -1px;
+	 left: 0px;
+	 bottom: 50px;
+	 font-size: 10px;
+	 color: #708090;
+	 font-family: sans-serif;
+	}
+
+	.fonteMenu {
+ 	font-size: 17px;
+ 	line-height: 20px;
+ 	word-spacing: 20px;
+ 	text-decoration: none;
+
+	}
+
+	.espaçamentoEmBranco {
+		word-spacing: 5px;
+	}
+
+	.fundoMenu {
+		background-color: #D3D3D3;
+		padding-top: 10px;
+  		padding-right: 25px;
+  		padding-bottom: 10px;
+  		padding-left: 10px;
+
+	}
+
+	.fundoParagrafo{
+		background-color: #FFFAF0;
+		padding-top: 20px;
+  		padding-right: 25px;
+  		padding-bottom: 15px;
+  		padding-left: 10px;
+	}
+
+	.fonteParagrafo {
+		font-size: 15px;
+ 		line-height: px;
+ 		word-spacing: 1px;
+ 		color: black;
+ 		font-family: Verdana,Geneva,sans-serif; 
+ 		font-weight: inherit;
+	}	
+
+	.tituloParagrafo {
+		color: #696969;
+		font-size: 19px;
+		line-height: 0px;
+	}
+
+	.fonteNegrito {
+		font-size: 15px;
+ 		word-spacing: 1px;
+ 		color: black;
+ 		font-weight: bold;
+ 		text-align: center;
+	}
+
+	.fonteDireitos {
+		font-size: 17px;
+ 		word-spacing: 1px;
+ 		color: black;
+ 		font-weight: bold;
+ 		text-align: center;
+	}
+
+	.fundoDireitos {
+		padding-top: 20px;
+  		padding-right: 25px;
+  		padding-bottom: 10px;
+  		padding-left: 10px;
+	}
+
+	a {
+  		color: #708090;
+  		text-decoration:none;	
+     }
+
+     .bordaFotos {
+
+		/*border: 15px outset red;*/
+		border-color: #D3D3D3;
+		border-width: 10px 10px 10px 10px;
+		border-style: solid;
+		
+     }
